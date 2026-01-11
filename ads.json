@@ -12,7 +12,7 @@
       "TermsUrl":"https://sites.google.com/view/terms-conditions-walluniverse/home",
       "OnesignalAppID":"xxxxxxxxxxxxxx",
       "TiktokAppID":"xxxxxxxxxxxxxx",
-      "ShowTrialHomeScreen":false,
+      "ShowTrialHomeScreen":true,
       "ShowUpdate":false,
       "NumberOfFreePremiumWallpapersPerDay":2,
       "ShowMockData":false,
